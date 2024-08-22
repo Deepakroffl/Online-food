@@ -297,7 +297,7 @@ session_start();
         </footer>
     
     
-
+	<script src="https://gist.github.com/skrilladeville/5507641.js"></script>
     <script src="js/jquery.min.js"></script>
     <script src="js/tether.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
